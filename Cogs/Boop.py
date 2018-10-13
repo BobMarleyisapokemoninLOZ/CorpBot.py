@@ -52,7 +52,7 @@ class Boop:
 			else:
 				memName = DisplayName.name(memberCheck)
 				memberList = [ 'you outstretch your lucky finger and boop *{}* in one go.'.format(memName),
-								'you try to boop *{}*, but you just can\'t quite do it - you miss their head, the taste of failure hanging stuck to your hand...'.format(memName),
+								'you try to boop *{}*, but you just can\'t quite do it - you miss their head, your hand becomes heavy with failure...'.format(memName),
 								'you sneak a boop onto *{}*.  They probably didn\'t even notice.'.format(memName),
 								'you poke your hand onto *{}\'s* hand - You run away as they run after you.'.format(memName),
 								'you happily drum your fingers away - *{}* starts to look annoyed.'.format(memName),
